@@ -2,6 +2,8 @@
 
 RimWorld 1.6 Ideology mod. The small favorite-color square on a pawn's **Bio** tab becomes a button. Click it to pick a new favorite color from the same Ideology / misc color set vanilla uses.
 
+Works with [Bio Tab+](https://steamcommunity.com/sharedfiles/filedetails/?id=3781978940), which relocates that square.
+
 Requires [Harmony](https://steamcommunity.com/sharedfiles/filedetails/?id=2009463077) and **Ideology**.
 
 ## Install

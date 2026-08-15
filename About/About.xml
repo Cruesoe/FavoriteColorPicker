@@ -3,13 +3,13 @@
   <name>Favorite Color Picker</name>
   <author>Cruesoe</author>
   <packageId>cruesoe.favoritecolorpicker</packageId>
-  <modVersion IgnoreIfNoMatchingField="True">1.0.0</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">150826</modVersion>
   <supportedVersions>
     <li>1.6</li>
   </supportedVersions>
   <description>Click the favorite-color box on a pawn's Bio tab to choose a new favorite color.
 
-Requires Ideology. The box is the same vanilla Ideology UI; this mod only makes it a button.</description>
+Requires Ideology. Compatible with Bio Tab+, which moves that box; the picker follows it.</description>
   <modDependencies>
     <li>
       <packageId>Ludeon.RimWorld.Ideology</packageId>
@@ -25,5 +25,6 @@ Requires Ideology. The box is the same vanilla Ideology UI; this mod only makes 
   <loadAfter>
     <li>Ludeon.RimWorld.Ideology</li>
     <li>brrainz.harmony</li>
+    <li>Axolki.BioTabPlus</li>
   </loadAfter>
 </ModMetaData>
