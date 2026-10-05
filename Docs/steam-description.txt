@@ -1,0 +1,15 @@
+[h1]Favorite Color Picker[/h1]
+
+Click the little favourite-colour square on a pawn's Bio tab and pick a new colour. That's it.
+
+I used to do this in Character Editor whenever I wanted someone in a new colour. It works, but it's a lot of clicking for something I do all the time. I wanted a quicker, more convenient way — so now you just click the box that's already sitting there.
+
+I use [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2562859859]Self Dyeing[/url], which dyes apparel from a pawn's favourite colour. That only helps if changing the colour is easy. With this, I can colour-code the colony in a few clicks.
+
+Open Bio, click the square next to their ideology, pick a colour, done.
+
+[h2]Notes[/h2]
+[list]
+[*]Bio Tab+ Supported.
+[*]Babies don't have the box in vanilla, so there's nothing to click for them.
+[/list]
