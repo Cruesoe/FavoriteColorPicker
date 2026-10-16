@@ -6,6 +6,7 @@
   <modVersion IgnoreIfNoMatchingField="True">260929</modVersion>
   <supportedVersions>
     <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
   <description>Click the favorite-color box on a pawn's Bio tab to choose a new favorite color.
 
